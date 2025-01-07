@@ -1,4 +1,6 @@
 # SQL-project
+
+This project is a part of the DataCamp -- Exploring London Transport Network beginner project.
 The data has been loaded into a Snowflake database called TFL with a single table called JOURNEYS , including the following data:
 ![image](https://github.com/user-attachments/assets/f91e891f-c23e-4c67-bc85-636c56afa15d)
 
